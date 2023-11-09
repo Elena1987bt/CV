@@ -7,14 +7,14 @@ import References from "./References";
 
 const Main = () => {
   return (
-    <div className="flex flex-[75%] py-12 px-20 flex-col">
+    <div className="flex flex-[75%] py-12 px-20 flex-col md:py-10 py-20">
       <Profile />
       <Line />
       <Experience />
       <Line />
       <Education />
       <Line />
-      {/*       <References /> */}
+      <References />
     </div>
   );
 };

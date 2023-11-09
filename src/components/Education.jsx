@@ -3,7 +3,9 @@ import React from "react";
 const Education = () => {
   return (
     <div className="">
-      <h1 className="text-lg my-2 font-semibold text-gray-900 ">Education</h1>
+      <h1 className="text-lg my-2 font-semibold text-gray-90 text-[#380238] ">
+        Education
+      </h1>
       <div>
         <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
           May 2023 - June 2023
@@ -61,8 +63,8 @@ const Education = () => {
           September 2013 - June 2016
         </time>
         <p className="pb-3 text-justify text-gray-900 ">
-          Bachelor Degree of Law, St. Clement of Ohrid University of
-          Bitola,Republic of North Macedonia
+          Bachelor Degree of Law, St. Clement of Ohrid University of Bitola,
+          Republic of North Macedonia
         </p>
       </div>
     </div>

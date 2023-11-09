@@ -6,8 +6,8 @@ import L from "./L";
 
 const Sidebar = () => {
   return (
-    <div className="flex flex-col flex-[25%] h-auto min-h-screen bg-[#380238] text-[#fff] p-10 rounded-tl-lg rounded-bl-lg">
-      <div className="rounded-lg  ">
+    <div className="flex flex-col flex-[30%] h-auto min-h-screen bg-[#380238] text-[#fff] md:py-10 py-20 px-8 rounded-tl-lg rounded-bl-lg">
+      <div className="rounded-lg mx-auto ">
         <img src={Img} alt="" className="h-[200px] w-[200px] rounded-full  " />
         <h3 className="text-2xl font-semibold text-center py-6">
           Elena Ackovska
@@ -16,10 +16,10 @@ const Sidebar = () => {
         <p className="text-center pb-10 text-xl">Software engineer</p>
       </div>
       <Contact />
-      <L />
-      <div className="main__leftDetails">
-        <h4 className="text-xl mt-6 mb-4">Details</h4>
 
+      <div className="">
+        <h4 className="text-md uppercase mt-6 mb-4">Details</h4>
+        <L />
         <div className="text-sm">
           <p>Arlöv, 23233</p>
           <p>Sweden</p>
