@@ -16,10 +16,10 @@ const Experience = () => {
           Software engineer in StepStone
         </h3>
         <div class="mb-6 text-justify font-normal text-gray-500 dark:text-gray-400">
-          Working in an innovative labs, exploring new concept and technologies,
-          as well as researching and prototyping with code to develop software
-          applications. This has involved building the frontend, backend, and
-          cloud for various projects.
+          Working in an innovative labs, exploring new concepts and
+          technologies, as well as researching and prototyping with code to
+          develop software applications. This has involved building the
+          frontend, backend, and cloud for various projects.
           <ul className="list-disc list-inside text-base mb-6">
             <li className="text-justify mb-3 mt-3">
               <span className="font-semibold">
@@ -56,7 +56,7 @@ const Experience = () => {
             </li>
             <li className="text-justify mb-3 ">
               <span className="font-semibold">
-                Designed and develop the frontend for the QR-code app using
+                Designed and developed the frontend for the QR-code app using
                 React.js.{" "}
               </span>
               The purpose of this app was to create QR codes for internal
@@ -68,7 +68,7 @@ const Experience = () => {
                 prompt engineering.
               </span>{" "}
               The application was developed in React, it had a chat interface
-              where the user can directly interact with openAI. The data was
+              where the user can directly interact with OpenAI. The data was
               stored in DynamoDb.
             </li>
           </ul>

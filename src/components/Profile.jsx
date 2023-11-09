@@ -7,14 +7,14 @@ const Profile = () => {
         Profile
       </h1>
       <p className="pb-3 text-justify">
-        Software engineer with experience in front-end, back-end technologies
-        and cloud. Experienced with building applications with React and solid
+        Software engineer with experience in frontend, backend technologies and
+        cloud. Experienced with building applications with React and solid
         foundation of building APIs with Node.js, MongoDb and Firebase. Strong
         knowledge in using cloud services both Google Cloud Platform (GCP) and
         Amazon Web Services (AWS).
       </p>
       <p className="pb-3 text-justify">
-        As a developer with law degree, I have a strong attention to detail
+        As a developer with a law degree, I have a strong attention to detail
         which helps me design and develop user-friendly and reliable software
         solutions. I thrive in a global technical environment that values
         diversity and professional development.
