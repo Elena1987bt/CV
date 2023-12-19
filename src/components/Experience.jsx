@@ -91,10 +91,7 @@ const Experience = () => {
                 Designed and developed the frontend and the backend of an online
                 store during learning React module.
               </span>{" "}
-              The purpose of this application was the company employees to use
-              OpenAI, save their chats and share them between each other in a
-              secure way by creating a proxy that will save the data and have
-              more control on the input and output data.
+              This application was made as a final project for finishing the React course.
               <p className="py-2">
                 {" "}
                 The frontend was developed in React, the API was developed in
